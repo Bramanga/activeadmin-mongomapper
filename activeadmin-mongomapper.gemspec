@@ -18,5 +18,5 @@ Gem::Specification.new do |gem|
 
   gem.add_runtime_dependency 'mongo_mapper',     '~> 0.13.0.beta2'
   gem.add_runtime_dependency 'mm-devise',        '~> 2.0'
-  gem.add_runtime_dependency 'activeadmin',      '~> 0.4'
+  gem.add_runtime_dependency 'activeadmin',      '~> 0.6.3'
 end
